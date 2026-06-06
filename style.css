@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    padding: 30px;
+}
+
+#displayArea {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    min-height: 40px;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+table {
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 10px;
+}
